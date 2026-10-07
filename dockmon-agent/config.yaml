@@ -1,0 +1,25 @@
+name: "DockMon Agent"
+description: "DockMon agent for monitoring Docker containers running on Home Assistant OS"
+version: "1.0.1"
+slug: "dockmon_agent"
+url: "https://github.com/darthnorse/dockmon"
+init: false
+startup: services
+boot: auto
+arch:
+  - amd64
+  - aarch64
+protected: false
+docker_api: true
+host_pid: true
+apparmor: false
+options:
+  dockmon_url: "https://192.168.1.184:8001"
+  registration_token: ""
+  timezone: "Europe/Budapest"
+  insecure_skip_verify: true
+schema:
+  dockmon_url: url
+  registration_token: password
+  timezone: str
+  insecure_skip_verify: bool

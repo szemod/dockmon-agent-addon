@@ -1,0 +1,13 @@
+configuration:
+  dockmon_url:
+    name: DockMon URL
+    description: A DockMon szerver alap URL-je.
+  registration_token:
+    name: Regisztracios token
+    description: A DockMonban frissen generalt regisztracios token.
+  timezone:
+    name: Idozona
+    description: A DockMon Agent idozonaja.
+  insecure_skip_verify:
+    name: TLS ellenorzes kihagyasa
+    description: Csak nem megbizhato vagy sajat alairasu tanusitvanynal hasznald.
