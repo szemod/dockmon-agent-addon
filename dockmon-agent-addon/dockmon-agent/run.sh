@@ -16,3 +16,4 @@ echo "Token: $REGISTRATION_TOKEN"
 
 exec /entrypoint.sh
 
+
