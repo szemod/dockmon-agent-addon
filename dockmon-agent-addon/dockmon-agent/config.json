@@ -2,7 +2,7 @@
   "name": "DockMon Agent",
   "version": "1.0.0",
   "slug": "dockmon-agent",
-  "description": "DockMon monitoring agent for HAOS",
+  "description": "DockMon monitoring agent for Home Assistant OS",
   "arch": ["amd64", "arm64"],
   "startup": "services",
   "boot": "auto",
@@ -22,4 +22,5 @@
     "insecure_skip_verify": "bool"
   }
 }
+
 
