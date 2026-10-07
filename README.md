@@ -1,5 +1,5 @@
 # DockMon Agent for Home Assistant OS
-Copy this complete folder to `\\[your_homeassistant_server]\addons\dockmon-agent`, reload the local app store, reinstall/update, configure a fresh registration token, disable Protection mode, and start.
+Copy this complete folder to `\\[your_homeassistant_server]\addons\dockmon-agent`, reload the local app store, reinstall/update, configure a fresh registration token, disable Protection mode, and start, simply add this repo to Home Assistant: 'https://github.com/szemod/dockmon-agent-addon'.
 <img width="1555" height="1023" alt="image" src="https://github.com/user-attachments/assets/ca753cba-6b59-4378-ac2b-660366c10367" />
 <img width="1322" height="862" alt="image" src="https://github.com/user-attachments/assets/7ae5519b-e57a-4d59-b6ae-7fa9929b08e6" />
 <img width="1887" height="77" alt="image" src="https://github.com/user-attachments/assets/726b0952-5dfd-4f2a-a0ce-cc85e02ea9e9" />
