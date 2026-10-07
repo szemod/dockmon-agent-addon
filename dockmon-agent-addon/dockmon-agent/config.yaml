@@ -30,4 +30,3 @@ schema:
   insecure_skip_verify: bool
 
 image: "ghcr.io/darthnorse/dockmon-agent:latest"
-
