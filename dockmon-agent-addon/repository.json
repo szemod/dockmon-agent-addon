@@ -1,7 +1,7 @@
 {
-  "name": "DockMon Agent Add-on",
-  "url": "https://github.com/<your-username>/dockmon-agent-addon",
-  "maintainer": "Zsolt",
+  "name": "DockMon Agent Add-on Repository",
+  "url": "https://github.com/szemod/dockmon-agent-addon",
+  "maintainer": "szemod",
   "addons": [
     {
       "slug": "dockmon-agent",
